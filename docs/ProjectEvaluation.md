@@ -5,6 +5,8 @@ Project 2 Evaluation Criteria
 
 B. Norris - 2-16-2025
 
+Most up-to-date version: https://github.com/UO-CS422/project2-template/blob/main/docs/ProjectEvaluation.md
+
 Final projects should be delivered via GitHub. The following checklist is not complete but may help avoid some of the more obvious errors:
 
 1.  **Completeness**: Make sure that every piece of the project is completed.

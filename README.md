@@ -1,4 +1,4 @@
-# <PROJECT NAME>
+# PROJECT_NAME
 
 Description of the application.
 
@@ -6,7 +6,7 @@ Description of the application.
 
 Include complete instructions on installing and setting up the application.
 
-## Using <PROJECT NAME>
+## Using PROJECT_NAME
 
 Include pointers to additional documentation.
 
