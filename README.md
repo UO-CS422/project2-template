@@ -10,4 +10,18 @@ Include complete instructions on installing and setting up the application.
 
 Include pointers to additional documentation.
 
+## Directory Structure
+
+Basic recommended directory structure. Feel free to add more directories as needed.
+
+```bash
+.
+├── LICENSE
+├── README.md
+├── docs/
+├── scrum/
+├── src/
+└── tests/
+```
+
 ## Authors
